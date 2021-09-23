@@ -4,7 +4,7 @@ public class MyApp
     public static void main(String args[]) 
   {
 
-    Console.WriteLine("Hello World!merged second line for coding !Happy coding!"); 
+    Console.WriteLine("Hello World!This is a sample app!Happy coding!"); 
 
 
 } 
